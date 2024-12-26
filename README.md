@@ -1,8 +1,12 @@
-# React + Vite
+# Getting started
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3>1. clone the repo https://github.com/RushabRisal/gettingReadyHackethon.git to you're local directory</h3>
+<h4>Process:</h4>
+<ul>
+<li>Fork the repo to your repository.</li>
+<li>Clone the forked repo to your local directory by running the command, "git clone {The HTTPS of the repo}"</li>
+<li>After cloning, run "cd backend" (i.e. go to backend directory), and execute "npm install". Perform same for frontend directory-----this will download all the dependencies</li>
+<li>For Frontend and backend: to run the index.js and server.js by: execute "npm run dev" individually in both frontend and backend terminal: note: execute for server first</li>
+</ul>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
