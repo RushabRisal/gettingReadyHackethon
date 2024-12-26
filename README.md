@@ -1,7 +1,7 @@
 # Getting started
 
-<h3>1. clone the repo https://github.com/RushabRisal/gettingReadyHackethon.git to you're local directory</h3>
-<h4>Process:</h4>
+
+<h3>Process:</h3>
 <ul>
 <li>Fork the repo to your repository.</li>
 <li>Clone the forked repo to your local directory by running the command, "git clone {The HTTPS of the repo}"</li>
