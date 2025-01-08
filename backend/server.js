@@ -8,7 +8,9 @@ app.use(cors(corsOption))
 app.get('/api',(req,res)=>{
     res.json({"users":["user_1","user_2","user_3"]})
 })
-
+app.get('/api/name',(req,res)=>{
+    res.json({"name":['rushab','rishav','prawin','aashish']})
+})
 app.listen(5000,()=>{
     console.log("server is running at 5000 ")
 })
